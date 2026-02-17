@@ -17,53 +17,6 @@ Passionate about building scalable backend systems and responsive web applicatio
 Currently mastering Spring Boot & React to build complete end-to-end applications.
 </p>
 
----
-
-<!-- ====== SKILLS ====== -->
-
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,mysql,git,github,vscode,eclipse" />
-</p>
-
----
-
-<!-- ====== GITHUB STATS ====== -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PunithRaj-N&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunithRaj-N&theme=tokyonight" height="150"/>
-</p>
-
----
-
-<!-- ====== CONTRIBUTION SNAKE ====== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/PunithRaj-N/PunithRaj-N/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- ====== CONTACT ====== -->
-
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-<a href="mailto:punithrajn78@gmail.com">Email</a> • 
-<a href="https://github.com/PunithRaj-N">GitHub</a>
-</p>
-
----
-
-⭐ Thank you for visiting my profile!
-
- 
 🎓 B.E in Electronics & Communication Engineering (2021–2025)  
 📍 Bangalore, India  
 📧 punithrajn78@gmail.com  
@@ -160,10 +113,33 @@ Aspiring Full-Stack Java Developer with strong knowledge in web technologies, da
 - Adaptable to New Technologies
 
 ---
+<!-- ====== GITHUB STATS ====== -->
 
-## 🔗 Connect With Me
-- GitHub: https://github.com/PunithRaj-N
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PunithRaj-N&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunithRaj-N&theme=tokyonight" height="150"/>
+</p>
 
 ---
+
+<!-- ====== SKILLS ====== -->
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,mysql,git,github,vscode,eclipse" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+<a href="mailto:punithrajn78@gmail.com">Email</a> • 
+<a href="https://github.com/PunithRaj-N">GitHub/PunithRaj-N</a>
+</p>
+
 
 ⭐ Thank you for visiting my profile!
