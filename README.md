@@ -85,7 +85,6 @@ Aspiring Full-Stack Java Developer with strong knowledge in web technologies, da
 ---
 
 ## 🌱 Currently Learning
-- React.js
 - Advanced Spring Security
 - System Design Basics
 
