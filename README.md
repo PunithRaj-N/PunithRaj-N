@@ -1,13 +1,68 @@
+<!-- ====== HEADER ====== -->
+
 <h1 align="center">Hi 👋, I'm Punith Raj N</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Java+Developer;Spring+Boot+Enthusiast;Backend+Developer;Problem+Solver" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Java+Developer+|+Spring+Boot+Enthusiast+|+Backend+Developer+|+React+Learner+|+Problem+Solver" />
 </p>
+
+---
+
+<!-- ====== ABOUT ====== -->
+
+<h3 align="center">💻 Full-Stack Java Developer | B.E (ECE) | Bangalore, India</h3>
+
+<p align="center">
+Passionate about building scalable backend systems and responsive web applications.
+Currently mastering Spring Boot & React to build complete end-to-end applications.
+</p>
+
+---
+
+<!-- ====== SKILLS ====== -->
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react,mysql,git,github,vscode,eclipse" />
+</p>
+
+---
+
+<!-- ====== GITHUB STATS ====== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+<!-- ====== CONTRIBUTION SNAKE ====== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ====== CONTACT ====== -->
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+<a href="mailto:punithrajn78@gmail.com">Email</a> • 
+<a href="https://github.com/PunithRaj-N">GitHub</a>
+</p>
+
+---
+
+⭐ Thank you for visiting my profile!
+
  
 🎓 B.E in Electronics & Communication Engineering (2021–2025)  
 📍 Bangalore, India  
@@ -107,8 +162,7 @@ Aspiring Full-Stack Java Developer with strong knowledge in web technologies, da
 ---
 
 ## 🔗 Connect With Me
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: (Add your LinkedIn URL)
+- GitHub: https://github.com/PunithRaj-N
 
 ---
 
