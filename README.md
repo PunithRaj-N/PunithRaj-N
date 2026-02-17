@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Punith Raj N</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=10000&pause=3000&color=00BFFF&center=true&vCenter=true&width=1500&lines=Full-Stack+Java+Developer+|+Spring+Boot+|+Backend+Developer+|+SQL+|+Web+Technology+|" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=48&duration=10000&pause=3000&color=00BFFF&center=true&vCenter=true&width=1500&lines=Full-Stack+Java+Developer+" />
+  <!--|+Spring+Boot+|+Backend+Developer+|+SQL+|+Web+Technology+|-->
 </p>
 
 ---
