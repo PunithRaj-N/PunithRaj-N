@@ -11,15 +11,15 @@
 
 <!-- ====== ABOUT ====== -->
 
-<h3 align="center">💻 Full-Stack Java Developer | B.E (ECE) | Bangalore, India</h3>
+<!-- <h3 align="center">💻  Java Full-Stack Developer | B.E (ECE) | Bangalore, India</h3> -->
 
 <p align="center">
 Passionate about building scalable backend systems and responsive web applications.
-Currently mastering Spring Boot & React to build complete end-to-end applications.
+Currently mastering Spring Boot & to build complete end-to-end applications.
 </p>
 
 🎓 B.E in Electronics & Communication Engineering (2021–2025)  
-📍 Bangalore, India  
+📍 Bangalore  
 📧 punithrajn78@gmail.com  
 
 ---
