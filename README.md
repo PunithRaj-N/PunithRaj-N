@@ -1,6 +1,14 @@
-# Hi 👋 I'm Punith Raj N
+<h1 align="center">Hi 👋, I'm Punith Raj N</h1>
 
-💻 Full-Stack Java Developer  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Java+Developer;Spring+Boot+Enthusiast;Backend+Developer;Problem+Solver" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+ 
 🎓 B.E in Electronics & Communication Engineering (2021–2025)  
 📍 Bangalore, India  
 📧 punithrajn78@gmail.com  
