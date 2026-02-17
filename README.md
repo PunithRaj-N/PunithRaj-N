@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Punith Raj N</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Java+Developer+|+Spring+Boot+Enthusiast+|+Backend+Developer+|+React+Learner+|+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=10000&pause=3000&color=00BFFF&center=true&vCenter=true&width=1500&lines=Full-Stack+Java+Developer+|+Spring+Boot+Enthusiast+|+Backend+Developer+|Learner+|+Problem+Solver" />
 </p>
 
 ---
@@ -34,8 +34,8 @@ Currently mastering Spring Boot & React to build complete end-to-end application
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PunithRaj-N&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunithRaj-N&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Currently mastering Spring Boot & React to build complete end-to-end application
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/PunithRaj-N/PunithRaj-N/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
